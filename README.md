@@ -25,3 +25,8 @@ Contentful is a headless CMS that helps you to keep and get the data.
 I deployed this whole project on firebase.
 
 Firebase is an extremely powerful backend servise offered by google.
+I'll be writing a whole new blog on firebase and describe to you guys how powerful this actually is.
+
+So, yeah.
+This is my project on ReactJS
+###Peace
