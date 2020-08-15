@@ -1,10 +1,13 @@
 ## KabirFlix: 
 See Live demo of this web application. https://my-netflix-v3.web.app
 
-## Available Scripts
+### Wanna download and run the project?
 
-In the project directory, you can run:
+Download the repository. Then go to the folder in cmd and type,
 
+### `npm install`
+What this command does?
+Well, running this command will download all the dependencies that you need to run the project
 ### `npm start`
 
 Runs the app in the development mode.<br />
