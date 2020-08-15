@@ -7,10 +7,10 @@ Download the repository. Then go to the folder in cmd and type,
 
 ### `npm install`
 What this command does?
-Well, running this command will download all the dependencies that you need to run the project
+Well, running this command will download all the dependencies that you need to run the project. 
+Then type,
 ### `npm start`
-
-Runs the app in the development mode.<br />
+This runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
