@@ -1,4 +1,6 @@
-See Live demo of this web application [KabirFlix](https://my-netflix-v3.web.app/).
+See Live demo of this web application.  
+## KabirFlix: 
+[https://my-netflix-v3.web.app/]
 
 ## Available Scripts
 
