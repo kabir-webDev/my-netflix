@@ -21,3 +21,7 @@ The page will reload if you make edits.<br />
 I have used Contentful to store the data that I needed for the website.
 Contentful is a headless CMS that helps you to keep and get the data.
 
+##Deployement:
+I deployed this whole project on firebase.
+
+Firebase is an extremely powerful backend servise offered by google.
